@@ -6,4 +6,8 @@ quinta
 sexta
 septima
 octava
-......
+novena
+decima
+11
+12
+13
